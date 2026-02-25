@@ -1,0 +1,39 @@
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# =========================
+# Excel temporales
+# =========================
+~$*.xlsm
+~$*.xlsx
+*.tmp
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos temporales VBA export
+# =========================
+*.exd
+
+# =========================
+# Carpetas de build (si en el futuro agregas algo)
+# =========================
+dist/
+build/
+out/
